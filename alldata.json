@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Bakul",
+    "age": 25,
+    "salary": 258,
+    "Email": "mdbakul51@gmail.com"
+  },
+  {
+    "id": "2",
+    "name": "jamal",
+    "age": 32,
+    "salary": 456,
+    "Email": "jamal51@gmail.com"
+  },
+  {
+    "id": "3",
+    "name": "kamal",
+    "age": 35,
+    "salary": 856,
+    "Email": "kamal@gmail.com"
+  }
+]
